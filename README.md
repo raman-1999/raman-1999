@@ -20,19 +20,17 @@
 ---
 
 <h2 align="center">
-  My Contribution Graph <img src="https://github.com/raman-1999/raman-1999/blob/main/images/graph.png" width="75">
+  My Contribution Graph <img src="https://github.com/raman-1999/raman-1999/blob/main/images/graph.png" width="35">
 </h2>
 
 ![github-contribution-grid-snake](https://github.com/raman-1999/raman-1999/assets/83714476/e069cc87-3ee3-4c3c-baed-1153f0476f2f)
 
 
 <h2 align="center">
-  My Github Stats
+  My Github Stats <img src="https://github.com/raman-1999/raman-1999/blob/main/images/stats.png" width="35">
 </h2>
 
-<img src="https://github-readme-stats.vercel.app/api?username=raman-1999&show_icons=true&hide_border=true&theme=dark&rank_icon=github">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raman-1999&layout=compact&theme=dark">
+<img src="https://github-readme-stats.vercel.app/api?username=raman-1999&show_icons=true&hide_border=true&theme=dark&rank_icon=github"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raman-1999&layout=compact&theme=dark">
 
 ---
 
