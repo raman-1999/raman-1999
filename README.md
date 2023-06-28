@@ -1,5 +1,5 @@
 <div>
-<img src="https://github.com/raman-1999/raman-1999/blob/main/images/banner.png" />
+<img src="https://github.com/raman-1999/raman-1999/blob/main/images/banner.gif" />
 </div>
 
 <h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
