@@ -2,7 +2,7 @@
 <image src="https://github.com/raman-1999/raman-1999/blob/main/images/banner.gif" />
 </div> -->
 
-<h2 align="center"">Technology Stack <img src="https://github.com/raman-1999/raman-1999/blob/main/images/skills.png" width="75"></h2>
+<h2 align="center"">Languages and Tools <img src="https://github.com/raman-1999/raman-1999/blob/main/images/skills.png" width="75"></h2>
 
 <p align="center" >
  <img src="https://github.com/raman-1999/raman-1999/blob/main/images/html-5.png" width="50" height="50"/>
@@ -25,8 +25,6 @@
 <h2 align="center">
   My Github Stats<img src="" width="50">
 </h2>
-
----
 
 <img src="https://github-readme-stats.vercel.app/api?username=raman-1999&show_icons=true&hide_border=true&theme=radical">
 
