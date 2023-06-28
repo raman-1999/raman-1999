@@ -28,6 +28,12 @@
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=raman-1999&show_icons=true&hide_border=true">
+<img src="https://github-readme-stats.vercel.app/api?username=raman-1999&show_icons=true&hide_border=true&theme=radical">
+
+---
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raman-1999&layout=compact">
+
+
+
 
 
