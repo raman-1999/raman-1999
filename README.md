@@ -1,6 +1,4 @@
-<!-- <div>
-<image src="https://github.com/raman-1999/raman-1999/blob/main/images/banner.gif" />
-</div> -->
+![banner](https://github.com/raman-1999/raman-1999/assets/83714476/963a67d2-516b-4d89-be84-aa42c145bb2c)
 
 <h2 align="center"">Languages and Tools <img src="https://github.com/raman-1999/raman-1999/blob/main/images/skills.png" width="75"></h2>
 
@@ -31,6 +29,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=raman-1999&show_icons=true&hide_border=true&theme=dark&rank_icon=github">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raman-1999&layout=compact&theme=dark">
+
 
 
 
