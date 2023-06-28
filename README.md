@@ -21,6 +21,7 @@
 <h2 align="center">
   My Contribution Graph <img src="https://github.com/raman-1999/raman-1999/blob/main/images/graph.png" width="75">
 </h2>
+![snake gif](https://github.com/raman-1999/raman-1999/blob/output/github-contribution-grid-snake.gif)
 
 <h2 align="center">
   My Github Stats<img src="" width="50">
