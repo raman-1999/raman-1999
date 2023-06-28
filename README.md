@@ -28,8 +28,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=raman-1999&show_icons=true&hide_border=true&theme=dark&rank_icon=github">
 
----
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raman-1999&layout=compact&theme=dracula">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raman-1999&layout=compact&theme=dark">
 
 
 
