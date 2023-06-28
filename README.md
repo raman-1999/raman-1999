@@ -34,7 +34,15 @@
 
 ---
 
+🎓 Computer Science graduate | Eager to learn and contribute
 
+🌟 Seeking opportunities to collaborate and build awesome projects
+
+🔗 Let's connect: www.linkedin.com/in/raman-preet-singh-2a9a80178
+
+📧 Feel free to reach out: ramanjpreetsingh9889@gmail.com
+
+✨ Always exploring new technologies and embracing challenges!
 
 
 
