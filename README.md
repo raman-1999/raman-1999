@@ -1,9 +1,10 @@
-![banner](https://github.com/raman-1999/raman-1999/assets/83714476/963a67d2-516b-4d89-be84-aa42c145bb2c)
+![a (1)](https://github.com/raman-1999/raman-1999/assets/83714476/afc4b667-97e2-463d-ab8f-a66e465670cd)
 
 ---
 
 <h2 align="center"">Languages and Tools </h2>
- <img src="https://github.com/raman-1999/raman-1999/blob/main/images/html-5.png" width="50" height="50"/>
+<p align="center" >
+ <img src="https://github.com/raman-1999/raman-1999/blob/main/images/html-5.png" width="50" height="50" style="margin-right:100;"/>
 <img src="https://github.com/raman-1999/raman-1999/blob/main/images/css-3.png" width="50" height="50"/>
 <img src="https://github.com/raman-1999/raman-1999/blob/main/images/js.png" width="50" height="50"/>
 <img src="https://github.com/raman-1999/raman-1999/blob/main/images/tailwind.png" width="50" height="50"/>
@@ -22,7 +23,8 @@
   My Contribution Graph <img src="https://github.com/raman-1999/raman-1999/blob/main/images/graph.png" width="75">
 </h2>
 
-![snake gif](https://github.com/raman-1999/raman-1999/blob/output/github-contribution-grid-snake.gif)
+![github-contribution-grid-snake](https://github.com/raman-1999/raman-1999/assets/83714476/e069cc87-3ee3-4c3c-baed-1153f0476f2f)
+
 
 <h2 align="center">
   My Github Stats<img src="" width="50">
@@ -33,6 +35,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raman-1999&layout=compact&theme=dark">
 
 ---
+
 
 
 
