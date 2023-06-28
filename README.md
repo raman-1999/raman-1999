@@ -2,7 +2,7 @@
 <image src="https://github.com/raman-1999/raman-1999/blob/main/images/banner.gif" />
 </div> -->
 
-<h2 align="center"">Technology Stack <img src="https://github.com/raman-1999/raman-1999/blob/main/images/skills" width="75"></h2>
+<h2 align="center"">Technology Stack <img src="https://github.com/raman-1999/raman-1999/blob/main/images/skills.png" width="75"></h2>
 
 <p align="center" >
  <img src="https://github.com/raman-1999/raman-1999/blob/main/images/html-5.png" width="50" height="50"/>
