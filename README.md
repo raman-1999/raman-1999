@@ -26,10 +26,10 @@
   My Github Stats<img src="" width="50">
 </h2>
 
-<img src="https://github-readme-stats.vercel.app/api?username=raman-1999&show_icons=true&hide_border=true&theme=synthwave&rank_icon=github">
+<img src="https://github-readme-stats.vercel.app/api?username=raman-1999&show_icons=true&hide_border=true&theme=dracula&rank_icon=github">
 
 ---
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raman-1999&layout=compact&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raman-1999&layout=compact&theme=dracula">
 
 
 
