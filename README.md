@@ -2,9 +2,7 @@
 
 ---
 
-<h2 align="center"">Languages and Tools <img src="https://github.com/raman-1999/raman-1999/blob/main/images/skills.png" width="75"></h2>
-
-<p align="center" >
+<h2 align="center"">Languages and Tools </h2>
  <img src="https://github.com/raman-1999/raman-1999/blob/main/images/html-5.png" width="50" height="50"/>
 <img src="https://github.com/raman-1999/raman-1999/blob/main/images/css-3.png" width="50" height="50"/>
 <img src="https://github.com/raman-1999/raman-1999/blob/main/images/js.png" width="50" height="50"/>
